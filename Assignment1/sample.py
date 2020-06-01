@@ -1,4 +1,4 @@
-# Panagiotis    Tsiavos A.M 2396
+
 
 import sys
 import random
